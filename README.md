@@ -1,4 +1,4 @@
-# # Desafio de programação - Academia Capgemini
+#Desafio de programação - Academia Capgemini
 
 
 _Projeto desenvolvido para a terceira fase do desafio de programação Capegemini_.
