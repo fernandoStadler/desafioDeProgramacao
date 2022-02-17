@@ -36,5 +36,5 @@ Com o intuito de facilitar a execução do programa fiz a exportação de cada t
 
 Caso o usuário utilize outro sistema operacional basta importar este projeto para o Eclipse seguindo os passos abaixo:
 
-``No Eclipse, abra a perspectiva do ClearTeam Explorer. Clique em Arquivo > Importar. Na página Selecionar da caixa de diálogo Importar, selecione Projetos Existentes no Espaço de Trabalho na caixa de listagem Selecionar uma Origem de Importação e clique em Avançar.``
+``No Eclipse, abra a perspectiva do ClearTeam Explorer. Clique em (Arquivo) > (Importar). Na página Selecionar da caixa de diálogo Importar, selecione Projetos Existentes no Espaço de Trabalho na caixa de listagem Selecionar uma Origem de Importação e clique em Avançar.``
 
